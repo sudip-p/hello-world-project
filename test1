@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 VALUE1=wrong_value
 VALUE2=wrong_value
 VALUE3=wrong_value
+=======
+VALUE1=1
+VALUE2=2
+VALUE3=3
+>>>>>>> parent of aaaea0d... Testing faulty commit
